@@ -655,6 +655,7 @@ span{
     position: relative;
     overflow: hidden;
     text-align: center;
+    padding: 40px;
   }
   .home-img img {
     transform: scale(1.7);
