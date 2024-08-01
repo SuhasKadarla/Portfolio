@@ -192,7 +192,7 @@ span{
 }
 .about-img img {
   transform: scale(1.2);
-  height: 200%;
+  height: 50%;
   border-radius: 50%;
 }
 .about-content {
