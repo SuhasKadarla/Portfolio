@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 *{
   margin: 0;
-  padding: 0px;
+  padding: 0;
   text-decoration: none;
   box-sizing: border-box;
   border: none;
@@ -105,7 +105,7 @@ section{
 .home-img img{
   transition: transform 0.5s ease;
   transform: scale(1.2);
-  width: 12vw;
+  width: 30vw;
 } 
 .home-content h3{
   font-size: 3.2rem;
@@ -192,8 +192,8 @@ span{
 }
 .about-img img {
   transform: scale(1.2);
-  height: 150%;
-  border-radius: 20%;
+  height: 200%;
+  border-radius: 50%;
 }
 .about-content {
   text-align: center;
@@ -672,7 +672,7 @@ span{
     font-size: 1.5rem;
   }
   .about img{
-    width: 30vw;
+    width: 70vw;
     margin-top: 0;
   }
   .about a {
